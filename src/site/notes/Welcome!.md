@@ -2,4 +2,11 @@
 {"dg-publish":true,"permalink":"/welcome/","tags":["gardenEntry"]}
 ---
 
-This is my research journal, a way to map all the knowledge that accretes as I do my work.
+# Welcome to my Research Notes!
+This is where I organise the knowledge collected over the course of my work.
+
+Here's the index:
+- [[Neural Representations\|Neural Representations]]
+- [[The Hippocampus\|The Hippocampus]]
+- [[Information Theory\|Information Theory]]
+- [[Kernel Methods\|Kernel Methods]]
